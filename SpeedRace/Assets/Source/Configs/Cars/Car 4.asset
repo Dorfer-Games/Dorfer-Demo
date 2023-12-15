@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ba8e3d5c1f4d1546a47742f2204b1ce, type: 3}
+  m_Name: Car 4
+  m_EditorClassIdentifier: 
+  <prefab>k__BackingField: {fileID: -8481246375109020628, guid: 22ac3c2d13e441f4db93edc95a4fc40a,
+    type: 3}
+  <color>k__BackingField: {r: 0.8980392, g: 0.22352941, b: 0.28235295, a: 1}
+  <displayName>k__BackingField: RED
+  <gift>k__BackingField: {fileID: 11400000, guid: 411da1edf97a75d41b8eee77f2932289,
+    type: 2}
+  <leaderSprite>k__BackingField: {fileID: 21300000, guid: 85836fb2d1cf11f40b2a604cd2f78fc4,
+    type: 3}
+  <memeberSprite>k__BackingField: {fileID: 21300000, guid: df07622ce07643947836d6e1b99ddc5e,
+    type: 3}

@@ -1,0 +1,13 @@
+{
+    "name": "Supyrb.Signals.Tests",
+    "references": [
+        "Supyrb.Signals"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

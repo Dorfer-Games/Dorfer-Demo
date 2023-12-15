@@ -1,0 +1,7 @@
+using Kuhpik;
+
+public class #SCRIPTNAME# : GameSystem
+{
+
+}
+
